@@ -1,4 +1,4 @@
-console.log("WELCOME TO MOVIE MATTERS");
+console.log("WELCOME TO MOVIE MASTERS?");
 
 /*
      GLOBAL LAYOUT CONSTANTS
